@@ -1,22 +1,22 @@
 {
-	"flavors": [
+	"things": [
 		{
-			"Baskin Robbins": "Very Berry Strawberry",
-			"Flavor": "REESE'S Peanut Butter Cup",
-			"Rating": "",
-			"Year": "2003"
+			"Nintendo Games": "Animal Crossing",
+			"Console": "Nintendo Switch",
+			"Favorite Character": "Tom Nook",
+			"Fun Fact": "I still play it, even after the craze of it during the pandemic."
 		},
 		{
-			"Baskin Robbins": "REESE'S Peanut Butter Cup",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Nintendo Games": "Super Mario N64",
+			"Console": "Nintendo 64",
+			"Favorite Character": "Mario",
+			"Fun Fact": "I still have my Nintendo 64. Have not played because I do not know how to connect it to HDMI."
 		},
 		{
-			"Baskin Robbins": "Vanilla",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Nintendo Games": "Cooking Mama",
+			"Console": "Nintendo DS",
+			"Favorite Character": "Mama",
+			"Fun Fact": "I would remake all my recipes until they all had gold medals from 'Mama'."
 		}
 	]
 }
