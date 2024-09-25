@@ -1,10 +1,9 @@
 table {
   width: 75%;
   font-size: large;
-  box-align: left;
+  ;
 }
 
 td {
-  padding: 10px;
-  box-align: left;
+  padding: 20px;
 }
